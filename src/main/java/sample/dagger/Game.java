@@ -2,7 +2,7 @@ package sample.dagger;
 
 import sample.dagger.rpg.Warrior;
 
-public class Main {
+public class Game {
 
 	public static void main(String[] args) {
 		System.out.println("----------- START");
